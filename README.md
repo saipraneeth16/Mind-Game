@@ -24,4 +24,4 @@ using memory alone.
 ## Run the Game
 
 ```bash
-python mind_maze.py
+python Mind_maze_game.py

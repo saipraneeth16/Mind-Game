@@ -1,10 +1,10 @@
-# 🧠 Mind Maze – Memory Escape Game
+# Mind Maze – Memory Escape Game
 
 Mind Maze is a terminal-based Python game that tests your memory rather than reflexes.
 The maze is shown only once and then hidden — players must navigate from start to exit
 using memory alone.
 
-## 🎮 How to Play
+## How to Play
 
 - Memorize the maze when it is displayed
 - After it disappears, navigate using:
@@ -14,14 +14,14 @@ using memory alone.
   - `D` → Right
 - Hitting a wall or boundary ends the game
 
-## 🧩 Features
+## Features
 
 - True memory-based gameplay
 - Multiple levels with increasing difficulty
 - Works even in Python IDLE
 - Clean and beginner-friendly Python code
 
-## ▶️ Run the Game
+## Run the Game
 
 ```bash
 python mind_maze.py
